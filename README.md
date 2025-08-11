@@ -12,14 +12,14 @@
 ---
 
 ## 🔭 Currently Working On
-- 🚀 Hands-on projects with modern web & AI/ML stacks
+- 🚀 Hands-on projects with modern Web & AI/ML stacks
 - 🧹 Deepening Data Structures & Algorithms skills
 - 🌐 Open-source contributions
 
 ## 🌱 Currently Learning
 - ⚛️ Full-stack development with **React & Node.js**
 - 📈 Competitive Programming for interviews
-- 🧠 Real-world **AI/ML applications**
+<!--- 🧠 Real-world **AI/ML applications**-->
 
 ---
 
@@ -56,7 +56,6 @@
       <img src="https://img.shields.io/badge/C++-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=FFA500">
       <img src="https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=white&color=FFA500">
       <img src="https://img.shields.io/badge/Python(Learning)-05122A?style=for-the-badge&logo=python&logoColor=white&color=FFA500">
-      <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white&color=FFA500">
     </td>
   </tr>
 </table>
@@ -81,7 +80,7 @@
 ## 🤝 Contributions
 
 🌟 I love to collaborate and contribute to meaningful open-source projects.  
-Here are some areas where I actively contribute:
+Here are some areas where I like to contribute:
 - 🛠️ Web development frameworks & tools
 - 🧪 Algorithms and DSA libraries
 - 🤖 AI/ML projects & experiments
@@ -95,8 +94,8 @@ Here are some areas where I actively contribute:
 
 ## 🌐 Connect with Me
 
-<a href="https://github.com/SohamPramanik">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=6b9adf" />
+<a href="https://www.instagram.com/iam_soham.manik/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/soham-pramanik/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=9adf6b" />
