@@ -1,29 +1,21 @@
 <div align="center">
 
-# 👋 Hi there, I’m **Soham Pramanik!** 🌟
+# 👋 Hey there, I’m **Soham Pramanik!** 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F76D6D&center=true&vCenter=true&width=435&lines=Web+Developer;Competitive+Programmer;AI%2FML+Enthusiast;Lifelong+Learner+%26+Builder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F7A41D&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Competitive+Programmer;AI%2FML+Explorer;Lifelong+Learner+%26+Builder" alt="Typing SVG" />
 
-✨ I’m a Web Developer, Competitive Programmer, and AI/ML enthusiast who loves tackling problems.
-✨ Building web apps, excelling in coding contests, and exploring the world of Artificial Intelligence keep me motivated.  
-
-</div>
+✨ Passionate about solving problems, building projects, and learning new technologies.  
+✨ I’m into **Web Development**, **Competitive Programming**, and **AI/ML experiments** 🚀  
 
 ---
 
-## 🔭 Currently Working On
-- 🚀 Hands-on projects with modern Web & AI/ML stacks
-- 🧹 Deepening Data Structures & Algorithms skills
-- 🌐 Open-source contributions
-
-## 🌱 Currently Learning
-- ⚛️ Full-stack development with **React & Node.js**
-- 📈 Competitive Programming for interviews
-<!--- 🧠 Real-world **AI/ML applications**-->
+## 🌟 About Me
+- 💻 I’m currently sharpening my **DSA skills** for coding contests & interviews.  
+- 🚀 Exploring **React, Node.js, and AI/ML applications**.  
+- 🤝 Love contributing to **Open Source projects**.  
+- 🌱 Motto: *"Code. Learn. Build. Repeat."*  
 
 ---
-
-<div align="center">
 
 ## 💻 Tech Stack
 
@@ -31,80 +23,80 @@
   <tr>
     <td><strong>🎨 Frontend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5&logoColor=white&color=ff69b4">
-      <img src="https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css3&logoColor=white&color=ff69b4">
-      <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white&color=ff69b4">
-      <img src="https://img.shields.io/badge/React(Learning)-05122A?style=for-the-badge&logo=react&logoColor=white&color=ff69b4">
+      <img src="https://skillicons.dev/icons?i=html,css,js,react" />
     </td>
   </tr>
   <tr>
     <td><strong>⚙️ Backend</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white&color=4169e1">
+      <img src="https://skillicons.dev/icons?i=nodejs,express" />
     </td>
   </tr>
   <tr>
     <td><strong>🧠 AI/ML</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Python(Learning)-05122A?style=for-the-badge&logo=python&logoColor=white&color=00CED1">
+      <img src="https://skillicons.dev/icons?i=python,tensorflow" />
     </td>
   </tr>
   <tr>
     <td><strong>💬 Languages</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/C-05122A?style=for-the-badge&logo=c&logoColor=white&color=FFA500">
-      <img src="https://img.shields.io/badge/C++-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=FFA500">
-      <img src="https://img.shields.io/badge/Java-05122A?style=for-the-badge&logo=java&logoColor=white&color=FFA500">
-      <img src="https://img.shields.io/badge/Python(Learning)-05122A?style=for-the-badge&logo=python&logoColor=white&color=FFA500">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+    </td>
+  </tr>
+  <tr>
+    <td><strong>🛠 Tools</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
     </td>
   </tr>
 </table>
 
-</div>
-
 ---
-
-<div align="center">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SohamPramanik&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamPramanik&layout=compact&langs_count=10&theme=radical" height="180em"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamPramanik&theme=radical" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohamPramanik&theme=radical" height="180em" />
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Contributions
-
-🌟 I love to collaborate and contribute to meaningful open-source projects.  
-Here are some areas where I like to contribute:
-- 🛠️ Web development frameworks & tools
-- 🧪 Algorithms and DSA libraries
-- 🤖 AI/ML projects & experiments
-- 🌐 Documentation and tutorials for new learners
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SohamPramanik&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamPramanik&layout=compact&langs_count=10&theme=radical" height="180em"/>
+</p>
 
 ---
 
-<div align="center">
+## 🏆 GitHub Achievements & Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SohamPramanik&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🚀 Fun Stuff
+
+- 🏃 Competitive programmer grinding problems daily.  
+- 🎯 Goal: Crack FAANG 🚀  
+- 📖 Always learning something new!  
+- ⚡ Fun fact: *I debug at 3am and it works magically.*  
+
+---
 
 ## 🌐 Connect with Me
 
 <a href="https://www.instagram.com/iam_soham.manik/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-FC4444?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/soham-pramanik/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=9adf6b" />
+  <img src="https://img.shields.io/badge/LinkedIn-3b82f6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:soham.workspace1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
-
-📫 **Email:** soham.workspace1@gmail.com
-
 <img src="https://komarev.com/ghpvc/?username=SohamPramanik&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 
 <p>🌈 <i>Let’s connect and build amazing things together!</i> 🚀</p>
