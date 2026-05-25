@@ -86,5 +86,3 @@ Real-time chat application supporting concurrent users with secure authenticatio
 📧 soham.workspace1@gmail.com
 
 🔗 LinkedIn: https://linkedin.com/in/soham-pramanik
-
-💻 GitHub: https://github.com/SohamPramanik
