@@ -4,12 +4,6 @@
   Full-Stack Developer • MERN Stack • System Design
 </p>
 
-<p align="center">
-  <a href="https://github.com/SohamPramanik">GitHub</a> •
-  <a href="https://linkedin.com/in/soham-pramanik">LinkedIn</a> •
-  <a href="mailto:soham.workspace1@gmail.com">Email</a>
-</p>
-
 ---
 
 ## About
