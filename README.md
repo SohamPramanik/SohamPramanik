@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/soham-pramanik/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/u/sohampramanik/">
+<a href="https://leetcode.com/u/soham_manik/">
 <img src="https://img.shields.io/badge/LeetCode-1500%2B-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 <a href="mailto:soham.workspace1@gmail.com">
