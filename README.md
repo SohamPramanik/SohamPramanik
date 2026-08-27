@@ -154,10 +154,6 @@ I'm consistently improving my understanding of **Data Structures, Algorithms, pr
 
 ---
 
-## 📈 Contribution Graph
-
----
-
 ## 🎯 Current Focus
 
 ```text
