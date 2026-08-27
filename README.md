@@ -156,12 +156,6 @@ I'm consistently improving my understanding of **Data Structures, Algorithms, pr
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SohamPramanik&hide_border=true&area=true&theme=github-compact"/>
-
-</div>
-
 ---
 
 ## 🎯 Current Focus
@@ -179,15 +173,6 @@ System Design             ████████████░░░░░░
 * 🧠 Strengthening DSA and problem-solving
 * ⚙️ Improving backend and database knowledge
 * 🏗️ Learning scalable software architecture
-
----
-
-## 📜 Certifications
-
-* **CCNA — Introduction to Networks**
-* **CCNA — Switching, Routing & Wireless Essentials**
-* **CCNA — Enterprise Networking, Security & Automation**
-* **Python Essentials 1 & 2 — Cisco Networking Academy**
 
 ---
 
